@@ -5,7 +5,7 @@ export const Root = () => (
   <Composition
     id="Halo"
     component={Halo}
-    durationInFrames={150}
+    durationInFrames={300}
     fps={30}
     width={1080}
     height={1920}
