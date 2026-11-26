@@ -1,0 +1,11 @@
+{
+  "name": "video-remotion",
+  "private": true,
+  "scripts": { "render": "remotion render src/index.ts Halo out/video.mp4" },
+  "dependencies": {
+    "@remotion/cli": "^4.0.0",
+    "remotion": "^4.0.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
